@@ -1,8 +1,8 @@
 const CACHE = 'not-defteri-v3';
 const TO_CACHE = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  '/not-defteri/',
+  '/not-defteri/index.html',
+  '/not-defteri/manifest.json',
   'https://dummyimage.com/192x192/ffffff/000000.png&text=ND',
   'https://dummyimage.com/300x300/ffffff/000000.png&text=Not+Defteri'
 ];
